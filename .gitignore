@@ -1,0 +1,6 @@
+# VS Code ayarları
+.vscode/
+
+# Python önbellek dosyaları
+__pycache__/
+*.pyc
